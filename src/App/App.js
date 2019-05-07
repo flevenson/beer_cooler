@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import BeerContainer from '../BeerContainer'
+import * as API from '../Utils'
 
 class App extends Component {
   
